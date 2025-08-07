@@ -14,4 +14,3 @@ Tap-to-deploy taxi booking app for **123Taxi**.
 > `STRIPE_PUBLISHABLE_KEY=pk_test_…`  
 > `STRIPE_SECRET_KEY=sk_test_…`  
 > `GOOGLE_KEY=YOUR_GOOGLE_MAPS_KEY`
-Add README with deploy buttons
